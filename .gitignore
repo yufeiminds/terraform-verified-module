@@ -61,5 +61,5 @@ README-generated.md
 .tflint_example.hcl
 
 tfmod-scaffold/
-scripts/
+scripts
 
