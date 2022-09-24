@@ -39,13 +39,13 @@ No modules.
 
 ## Inputs
 
-| Name                                                            | Description | Type     | Default | Required |
-|-----------------------------------------------------------------|-------------|----------|---------|:--------:|
-| <a name="input_echo_text"></a> [echo\_text](#input\_echo\_text) | n/a         | `string` | n/a     |   yes    |
+| Name                                                            | Description      | Type     | Default | Required |
+|-----------------------------------------------------------------|------------------|----------|---------|:--------:|
+| <a name="input_echo_text"></a> [echo\_text](#input\_echo\_text) | The text to echo | `string` | n/a     |   yes    |
 
 ## Outputs
 
-| Name                                                              | Description |
-|-------------------------------------------------------------------|-------------|
-| <a name="output_echo_text"></a> [echo\_text](#output\_echo\_text) | n/a         |
+| Name                                                              | Description      |
+|-------------------------------------------------------------------|------------------|
+| <a name="output_echo_text"></a> [echo\_text](#output\_echo\_text) | The text to echo |
 <!-- END_TF_DOCS -->
