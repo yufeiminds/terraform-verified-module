@@ -1,3 +1,3 @@
 variable "echo_text" {
-  type        = string
+  type = string
 }
